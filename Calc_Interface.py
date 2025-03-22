@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from Range_Calc import calculate_range, info as range_info, programName as r_name
 from Mode_calc import calculate_mode, info as mode_info, programName as mode_name
 from Median_Calc import calculate_median, info as median_info, programName as med_name
